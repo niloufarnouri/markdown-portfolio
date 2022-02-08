@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_thsi is the First item of my favorites list_
+__This is important__. Second **item** is more important
